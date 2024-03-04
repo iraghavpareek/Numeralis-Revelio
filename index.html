@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Numeralis Revelio: The Guess Game</title>
+  </head>
+  <body>
+    <header>
+      <h1>Ah, another mind to sort, let's see...</h1>
+      <p class="between">Hmm, between 1 to 99, where shall you be?</p>
+      <button class="btn again">Once more?</button>
+      <div class="number">
+        <img
+          src="https://fontmeme.com/permalink/240301/dcf72c6ef1e7ae7d72837267ce864bc3.png"
+          alt="?"
+        />
+      </div>
+    </header>
+    <main>
+      <section class="left">
+        <input type="number" class="guess" placeholder="1-99" />
+        <button class="btn check">Unravel the mystery!</button>
+      </section>
+      <section class="right">
+        <p class="message">Start Guessing...</p>
+        <p class="label-score">Score: <span class="score">10</span></p>
+        <p class="label-highscore">
+          Highscore: <span class="highscore">0</span>
+        </p>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
