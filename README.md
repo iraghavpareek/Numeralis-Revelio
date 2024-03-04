@@ -6,7 +6,7 @@
 
 //How to Play
 
-Access the Game: Open your web browser and navigate to the website hosting "Numeralis Revelio."
+Access the Game: Open your web browser and navigate to the website [hosting "Numeralis Revelio."](https://numeralis-revelio-the-guess-game.netlify.app)
 
 Start the Game: Upon accessing the game, you'll see the game interface, themed with elements from the Harry Potter universe.
 
